@@ -1,0 +1,76 @@
+id,bairro,distrito,nomeDistrito
+1,Alto da XV,DSMZ,Matriz
+2,Cristo Rei,DSMZ,Matriz
+3,Centro,DSMZ,Matriz
+4,Rebouças,DSMZ,Matriz
+5,Água Verde,DSPR,Portão
+6,Jardim das Américas,DSCJ,Cajuru
+7,Guabirotuba,DSCJ,Cajuru
+8,Prado Velho,DSMZ,Matriz
+9,Parolin,DSPR,Portão
+10,Hauer,DSBQ,Boqueirão
+11,Fanny,DSPN,Pinheirinho
+12,Guaira,DSPR,Portão
+13,Lindóia,DSPN,Pinheirinho
+14,Boqueirão,DSBQ,Boqueirão
+15,Jardim Botânico,DSMZ,Matriz
+16,Batel,DSMZ,Matriz
+17,São Francisco,DSMZ,Matriz
+18,Bom Retiro,DSMZ,Matriz
+19,Mercês,DSMZ,Matriz
+20,Centro Cívico,DSMZ,Matriz
+21,Ahú,DSMZ,Matriz
+22,Juvevê,DSMZ,Matriz
+23,Hugo Lange,DSMZ,Matriz
+24,Tarumã,DSBV,Boa vista
+25,Portão,DSPR,Portão
+26,Vila Izabel,DSPR,Portão
+27,Seminário,DSPR,Portão
+28,Campina do Siqueira,DSSF,Santa Felicidade
+29,Boa Vista,DSBV,Boa vista
+30,Bacacheri,DSBV,Boa vista
+31,Capão da Imbuia,DSCJ,Cajuru
+32,Bairro Alto,DSBV,Boa vista
+33,Jardim Social,DSMZ,Matriz
+34,Uberaba,DSCJ,Cajuru
+35,Xaxim,DSBQ,Boqueirão
+36,Santa Quitéria,DSPR,Portão
+37,Fazendinha,DSPR,Portão
+38,Mossunguê,DSSF,Santa Felicidade
+39,São João,DSSF,Santa Felicidade
+40,Pilarzinho,DSBV,Boa vista
+41,Taboão,DSBV,Boa vista
+42,Tingui,DSBV,Boa vista
+43,Novo Mundo,DSPN,Pinheirinho
+44,Santo Inácio,DSSF,Santa Felicidade
+45,Orleans,DSSF,Santa Felicidade
+46,Sitio Cercado,DSBN,Bairro Novo
+47,Cajuru,DSCJ,Cajuru
+48,Abranches,DSBV,Boa vista
+49,Cachoeira,DSBV,Boa vista
+50,São Lourenço,DSBV,Boa vista
+51,Barreirinha,DSBV,Boa vista
+52,Santa Cândida,DSBV,Boa vista
+53,Atuba,DSBV,Boa vista
+54,São Braz,DSSF,Santa Felicidade
+55,Butiatuvinha,DSSF,Santa Felicidade
+56,Lamenha Pequena,DSSF,Santa Felicidade
+57,Santa Felicidade,DSSF,Santa Felicidade
+58,Alto Boqueirão,DSBQ,Boqueirão
+59,Capão Raso,DSPN,Pinheirinho
+60,Pinheirinho,DSPN,Pinheirinho
+61,São Miguel,DSCIC,Cidade Industrial
+62,Augusta,DSCIC,Cidade Industrial
+63,Riviera,DSCIC,Cidade Industrial
+64,Caximba,DSTQ,Tatuquara
+65,Campo de Santana,DSTQ,Tatuquara
+66,Ganchinho,DSBN,Bairro Novo
+67,Umbará,DSBN,Bairro Novo
+68,Tatuquara,DSTQ,Tatuquara
+69,CIC,DSCIC,Cidade Industrial
+70,Alto da Glória,DSMZ,Matriz
+71,Bigorrilho,DSMZ,Matriz
+72,Campo Comprido (Sul),DSMZ,Matriz
+73,Vista Alegre,DSSF,Santa Felicidade
+74,Campo Comprido (Norte),DSSF,Santa Felicidade
+75,Cascatinha,DSSF,Santa Felicidade
